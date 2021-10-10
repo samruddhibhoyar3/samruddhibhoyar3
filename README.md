@@ -1,8 +1,11 @@
 
-<p align="centre"><a href="#"><img width="50%" height="auto" src="https://user-images.githubusercontent.com/52337446/126890793-bcec7fea-1152-4d72-be0e-2a7f8f98163b.png" height="175px"/></a>
+
 </p>
-<b><h1>Hola, I'm Samruddhi Bhoyar👋</b></h1>
-<br>
+<b><h2>Hi there, I'm Samruddhi Bhoyar👋</b></h2>
+Machine Learning Enthusiat | Front End Developer
+Reach me on:-
+<li>My profile on:<a href="https://www.linkedin.com/in/samruddhi-bhoyar-597383182/"> Linkedln</a> </li>
+
 <h4><b>✪ 📊 My Github Stats✪</b></h4>
 
 
