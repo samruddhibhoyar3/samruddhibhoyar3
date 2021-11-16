@@ -2,9 +2,6 @@
 
 </p>
 <b><h2>Hi there, I'm Samruddhi Bhoyar👋</b></h2>
-Machine Learning Enthusiat | Front End Developer
-Reach me on:-
-<li>My profile on:<a href="https://www.linkedin.com/in/samruddhi-bhoyar-597383182/"> Linkedln</a> </li>
 
 <h4><b>✪ 📊 My Github Stats✪</b></h4>
 
