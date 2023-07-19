@@ -26,12 +26,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samruddhibhoyar3&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<b><h4>✪ My preferred languages ✪</b></h4>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samruddhibhoyar3&show_icons=true&locale=en&layout=compact" alt="samruddhibhoyar3" /></p>
-
-<h4><b>✪ My Contributions ✪</b></h4>
-
-![Samruddhi's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=samruddhibhoyar3&theme=react-dark&hide_border=true&area=true)
 
 
 
